@@ -15,9 +15,9 @@ Welcome to my GitHub.
 - 🔭 Portfolio - https://fai-songprasit.herokuapp.com/
 
 ***If you're wondering why there are gaps in my GitHub activity:***    
-**April - July** - throughout the Enspiral Dev Academy Web Development bootcampwe often worked on paired programming 
+**April - July** - throughout the Enspiral Dev Academy Web Development bootcamp we often engaged in pair programming
 and the commits are through another student's GitHub account.    
-**August - current** - I am in the process of solidifying my JavaScript techniques on Codewars and HackerRank!
+**August - current** - currently in the process of solidifying my JavaScript techniques on Codewars and HackerRank!
 
 
 <!--
