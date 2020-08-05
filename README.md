@@ -2,18 +2,22 @@
 
 Welcome to my GitHub.
 
+**About me:**
+- I'm a full-stack web developer     
+- ⚡ My current skill sets are JavaScript, React, Redux, HTML and CSS
+
 ***If you're wondering why there are gaps in my GitHub activity:***    
 **April - July** - throughout the Enspiral Dev Academy Web Development bootcampwe often worked on paired programming 
 and the commits are through another student's GitHub account.    
 **August - current** - I am in the process of solidifying my JavaScript techniques on Codewars and HackerRank!
 
 ***Things I'm also currently learning outside of GitHub:***
-- C# - using CodeAcademy and Udacity
-- Vue.js     
+- 🌱 C# - using CodeAcademy and Udacity
+- 🌱 Vue.js     
 
 ***Things I'm actively working on:***
-- Kudosu - sudoku game using external API
-- Portfolio - https://fai-songprasit.herokuapp.com/
+- 🔭 Kudosu - sudoku game using external API
+- 🔭 Portfolio - https://fai-songprasit.herokuapp.com/
 
 
 <!--
