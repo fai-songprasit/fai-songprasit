@@ -4,7 +4,7 @@ Welcome to my GitHub.
 
 **About me:**
 - 💻 I'm a full-stack web developer     
-- ⚡ My current skill sets are JavaScript, React, Redux, HTML and CSS
+- ⚡ My current skill sets are JavaScript, React, Redux, HTML, CSS, SQLite and REST APIs
 
 ***Things I'm currently learning:***
 - 🌱 C# - using CodeAcademy and Udacity
