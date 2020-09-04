@@ -7,11 +7,11 @@ Welcome to my GitHub.
 - ⚡ My current skill sets are JavaScript, React, Redux, HTML, CSS, SQLite and REST APIs
 
 ***Things I'm currently learning:***
-- 🌱 C# - using CodeAcademy and Udacity
+- 🌱 C#
 - 🌱 Vue.js     
 
 ***Things I'm actively working on:***
-- 🔭 Kudosu - sudoku game using external API
+- 🔭 CovidTrackerForTransit - Summer of Tech create camp project - https://covid-tracker-for-transit.herokuapp.com/
 - 🔭 Portfolio - https://fai-songprasit.herokuapp.com/
 
 ***If you're wondering why there are gaps in my GitHub activity:***    
