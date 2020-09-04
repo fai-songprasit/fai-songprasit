@@ -7,6 +7,7 @@ Welcome to my GitHub.
 - ⚡ My current skill sets are JavaScript, React, Redux, HTML, CSS, SQLite and REST APIs
 
 ***Things I'm currently learning:***
+- 🌱 React Hooks
 - 🌱 C#
 - 🌱 Vue.js     
 
