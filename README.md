@@ -12,8 +12,8 @@ Welcome to my GitHub.
 - 🌱 Vue.js     
 
 ***Things I'm actively working on:***
-- 🔭 CovidTrackerForTransit - Summer of Tech create camp project - https://covid-tracker-for-transit.herokuapp.com/
 - 🔭 Portfolio - https://fai-songprasit.herokuapp.com/
+- 🔭 Loan Calculator using react Hooks
 
 ***If you're wondering why there are gaps in my GitHub activity:***    
 **April - July** - throughout the Enspiral Dev Academy Web Development bootcamp we often engaged in pair programming
