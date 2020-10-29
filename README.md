@@ -7,18 +7,17 @@ Welcome to my GitHub.
 - ⚡ My current skill sets are JavaScript, React, Redux, HTML, CSS, SQLite and REST APIs
 
 ***Things I'm currently learning:***
-- 🌱 React Hooks
-- 🌱 C#
-- 🌱 Vue.js     
+- 🌱 GraphQL
+- 🌱 TypeScript   
 
 ***Things I'm actively working on:***
 - 🔭 Portfolio - https://fai-songprasit.herokuapp.com/
-- 🔭 Loan Calculator using react Hooks
 
 ***If you're wondering why there are gaps in my GitHub activity:***    
 **April - July** - throughout the Enspiral Dev Academy Web Development bootcamp we often engaged in pair programming
 and the commits are through another student's GitHub account.    
-**August - current** - currently in the process of solidifying my JavaScript techniques on Codewars and HackerRank!
+**August - October** - currently in the process of solidifying my JavaScript techniques on Codewars and HackerRank!
+**Current** - Working at Jarden Digital as a Junior Developer
 
 
 <!--
