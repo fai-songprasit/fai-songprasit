@@ -16,8 +16,8 @@ Welcome to my GitHub.
 ***If you're wondering why there are gaps in my GitHub activity:***    
 **April - July** - throughout the Enspiral Dev Academy Web Development bootcamp we often engaged in pair programming
 and the commits are through another student's GitHub account.    
-**August - October** - currently in the process of solidifying my JavaScript techniques on Codewars and HackerRank!          
-**Current** - Working at Jarden Digital as a Junior Developer
+**August - October** - solidifying my JavaScript techniques on Codewars and HackerRank.          
+**Current** - working at Jarden Digital as a Junior Developer
 
 
 <!--
