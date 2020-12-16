@@ -10,9 +10,6 @@ Welcome to my GitHub.
 - 🌱 GraphQL
 - 🌱 TypeScript   
 
-***Things I'm actively working on:***
-- 🔭 Portfolio - https://fai-songprasit.herokuapp.com/
-
 ***If you're wondering why there are gaps in my GitHub activity:***    
 **April - July** - throughout the Enspiral Dev Academy Web Development bootcamp we often engaged in pair programming
 and the commits are through another student's GitHub account.    
