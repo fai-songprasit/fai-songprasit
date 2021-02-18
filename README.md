@@ -10,7 +10,7 @@ Welcome to my GitHub.
 - 🌱 GraphQL
 - 🌱 TypeScript   
 
-***If you're wondering why there are gaps in my GitHub activity:***    
+***If you're wondering why there are gaps in my GitHub activity in 2020:***    
 **April - July** - throughout the Enspiral Dev Academy Web Development bootcamp we often engaged in pair programming
 and the commits are through another student's GitHub account.    
 **August - October** - solidifying my JavaScript techniques on Codewars and HackerRank.          
