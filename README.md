@@ -3,7 +3,7 @@
 Welcome to my GitHub.
 
 **About me:**
-- 💻 I'm a full-stack web developer     
+- 💻 I'm a front-end web developer     
 - ⚡ My current skill sets are JavaScript, React, Redux, HTML, CSS, SQLite and REST APIs
 
 ***Things I'm currently learning:***
