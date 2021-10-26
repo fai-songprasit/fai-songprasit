@@ -3,7 +3,7 @@
 Welcome to my GitHub.
 
 **About me:**
-- 💻 I'm a front-end web developer     
+- 💻 I'm a front-end developer     
 - ⚡ My current skill sets are:
     - JavaScript
     - TypeScript
