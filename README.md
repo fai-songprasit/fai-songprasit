@@ -1,9 +1,16 @@
 ### Hello viewer! 👋
 
-Welcome to my GitHub.
+Welcome to my GitHub. 
 
-**About me:**
+While quickly glancing at my activities below, you're probably wondering "have you been coding at all in the past year?" and the answer to that is ABSOLUTELY. 
+
+In the past year I have been using GitLab as my version control instead of GitHub as that was what my company was using. There wasn't alot of time for personal projects so I'm sorry if it's looking a little neglected.
+
+**A little bit about me:**
+- 😄 Pronouns: she/her
 - 💻 I'm a Software Developer
+- 🌱 I currently consider myself more of a Frontend developer but I am trying to return to my Full-Stack roots.
+- 🤔 I find that I'm interested in a lot of different fields (with software development space) e.g. native mobile development, accessibility, design systems, other programming languges like C# and Python, application architecture, software optimization, ...to name a few.
 - ⚡ My current skill sets are:
     - JavaScript
     - TypeScript
