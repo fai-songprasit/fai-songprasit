@@ -10,7 +10,7 @@ In the past year I have been using GitLab as my version control instead of GitHu
 - 😄 Pronouns: she/her
 - 💻 I'm a Software Developer
 - 🌱 I currently consider myself more of a Frontend developer but I am trying to return to my Full-Stack roots.
-- 🤔 I find that I'm interested in a lot of different fields (with software development space) e.g. native mobile development, accessibility, design systems, other programming languges like C# and Python, application architecture, software optimization, ...to name a few.
+- 🤔 I find that I'm interested in a lot of different fields within the software development space. E.g. native mobile development, accessibility, design systems, other programming languges like C# and Python, application architecture, software optimization, ...to name a few.
 - ⚡ My current skill sets are:
     - JavaScript
     - TypeScript
