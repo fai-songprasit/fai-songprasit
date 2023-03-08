@@ -2,12 +2,11 @@
 
 Welcome to my GitHub. 
 
-While quickly glancing at my activities below, you're probably wondering "have you been coding at all in the past year?" and the answer to that is ABSOLUTELY. 
+When quickly glancing at my activities below, you'll probably wonder if I've been coding at all lately... and the answer to that is ABSOLUTELY. 
 
 In the past year I have been using GitLab as my version control instead of GitHub as that was what my company was using. There wasn't alot of time for personal projects so I'm sorry if it's looking a little neglected.
 
 **A little bit about me:**
-- 😄 Pronouns: she/her
 - 💻 I'm a Software Developer
 - 🌱 I currently consider myself more of a Frontend developer but I am trying to return to my Full-Stack roots.
 - 🤔 I find that I'm interested in a lot of different fields within the software development space. E.g. native mobile development, accessibility, design systems, other programming languges like C# and Python, application architecture, software optimization, ...to name a few.
